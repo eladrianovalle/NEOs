@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Obstacle
+  - Projectile
+  - Particles
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Projectile
+  - Particle
+  - Obstacle
+  - Collectable
+  - Spawn Point
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Projectiles
+    uniqueID: 3806328021
+    locked: 0
+  - name: Player
+    uniqueID: 1686303843
+    locked: 0
+  - name: Obstacles
+    uniqueID: 274039473
+    locked: 0
+  - name: Particles
+    uniqueID: 3325869809
+    locked: 0
